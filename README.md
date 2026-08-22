@@ -6,7 +6,7 @@
 
 <h3>🤖 AI/ML & GenAI | 💻 Full-Stack Developer | 🎓 Final-Year CSE</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Building+Intelligent+Real-World+Applications;Exploring+Generative+AI+%26+LLMs;Computer+Vision+%7C+NLP+%7C+Reinforcement+Learning;AI+%2B+Full-Stack+%2B+IoT;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Building+Intelligent+Real-World+Applications;Exploring+Generative+AI+%26+LLMs;Computer+Vision+%7C+NLP+%7C+Reinforcement+Learning;AI+%2B+Full-Stack+;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
