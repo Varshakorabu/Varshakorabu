@@ -54,15 +54,6 @@
 
 <br/>
 
-| 🌱 IoT & Smart Systems | 🎮 AI + Real-Time |
-|:---:|:---:|
-| ESP32 | Multiplayer Systems |
-| Raspberry Pi | Real-Time Applications |
-| Sensors | Interactive Platforms |
-| LoRa / GSM | AI-Powered Games |
-| Smart Automation | Competitive Applications |
-
-</div>
 
 ---
 
