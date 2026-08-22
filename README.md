@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Varsha%20Korabu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
@@ -6,7 +6,7 @@
 
 <h3>🤖 AI/ML & GenAI | 💻 Full-Stack Developer | 🎓 Final-Year CSE</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Building+Intelligent+Real-World+Applications;Exploring+Generative+AI+%26+LLMs;Computer+Vision+%7C+NLP+%7C+Reinforcement+Learning;AI+%2B+Full-Stack+%2B+IoT;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Building+Intelligent+Real-World+Applications;Exploring+Generative+AI+%26+LLMs;Computer+Vision+%7C+NLP+%7C+Reinforcement+Learning;AI+%2B+Full-Stack+%2B+IoT;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
@@ -45,15 +45,17 @@
 <div align="center">
 
 | 🤖 AI / ML | 🧠 GenAI | 🌐 Full Stack |
-|---|---|---|
+|:---:|:---:|:---:|
 | Machine Learning | LLM Applications | React |
 | Computer Vision | AI Assistants | Node.js |
 | NLP | Document Intelligence | Express.js |
 | Reinforcement Learning | AI Automation | REST APIs |
 | Multimodal AI | Summarization | Databases |
 
+<br/>
+
 | 🌱 IoT & Smart Systems | 🎮 AI + Real-Time |
-|---|---|
+|:---:|:---:|
 | ESP32 | Multiplayer Systems |
 | Raspberry Pi | Real-Time Applications |
 | Sensors | Interactive Platforms |
@@ -64,7 +66,66 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🏆 Featured Project
+
+## 🌱 Smart Irrigation System for Grape Cultivation using IoT & Machine Learning
+
+**Government of Karnataka Funded | NAIN 2.0**
+
+As a **member of the project team**, I contributed to the development of an intelligent irrigation system designed to support better irrigation decisions using real-time sensor data and Machine Learning.
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔧 Technologies Used
+
+<ul>
+<li>ESP32</li>
+<li>Raspberry Pi 5</li>
+<li>Firebase</li>
+<li>Machine Learning</li>
+<li>IoT Sensors</li>
+<li>Python</li>
+<li>Embedded Systems</li>
+<li>Flask</li>
+<li>LoRa / GSM</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ✨ Key Features
+
+<ul>
+<li>🌱 Real-time environmental monitoring</li>
+<li>💧 Smart irrigation recommendations</li>
+<li>🧠 Sensor-based decision making</li>
+<li>☁️ Cloud data storage using Firebase</li>
+<li>📱 Remote monitoring support</li>
+<li>🤖 Machine Learning based decision making</li>
+<li>⚙️ Intelligent irrigation automation</li>
+<li>📡 IoT communication</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+**Project Focus:** IoT • Machine Learning • Embedded Systems • Smart Agriculture
+
+This project strengthened my **technical, teamwork, leadership, and problem-solving skills** while working with real hardware and software integration.
+
+---
+
+# 🚀 Other Featured Projects
 
 ### 🎬 Language-Guided Reinforcement Learning for Unsupervised Video Summarization
 
@@ -73,14 +134,6 @@ My major project focuses on generating intelligent video summaries using **multi
 The system combines visual, audio, and textual information to identify important scenes from previously unseen videos.
 
 **Tech:** Python • PyTorch • CLIP • Whisper • Transformers • YOLO • Stable-Baselines3 • OpenCV
-
----
-
-### 🌱 NAIN 2.0 — Smart Irrigation System
-
-An **IoT + AI based smart irrigation system** designed for intelligent irrigation and automated decision-making using environmental and soil-related sensor data.
-
-**Tech:** ESP32 • Raspberry Pi • Python • Flask • Firebase • LoRa • GSM • Machine Learning
 
 ---
 
@@ -108,53 +161,97 @@ A real-time computer vision system designed to detect driver fatigue through **e
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=c,python,java,js" />
+<td width="50%" valign="top">
 
-### 🤖 AI / Machine Learning
+### 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+</p>
+
+<hr/>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+<hr/>
+
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase" />
+</p>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Reinforcement%20Learning-00A67E?style=for-the-badge"/>
+<b>Also Worked With</b>
 
-### 🌐 Full Stack
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,js" />
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
 
-### 🗄️ Databases & Cloud
+</td>
 
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,aws,vercel" />
+<td width="50%" valign="top">
 
-### 🌱 IoT & Embedded
+### 🤖 AI / ML
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+<ul align="left">
+<li>Machine Learning</li>
+<li>Deep Learning</li>
+<li>Natural Language Processing (NLP)</li>
+<li>Data Preprocessing</li>
+<li>NumPy</li>
+<li>Pandas</li>
+<li>Matplotlib</li>
+<li>Computer Vision</li>
+<li>Reinforcement Learning</li>
+<li>Generative AI</li>
+<li>LLMs</li>
+<li>Multimodal AI</li>
+</ul>
 
-<br/>
+<hr/>
 
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LoRa-00AEEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GSM-00897B?style=for-the-badge"/>
+### 🛠️ Developer Tools
 
-### 🔧 Tools
-
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
+</p>
+
+<hr/>
+
+### 🌱 Embedded Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square"/>
+<img src="https://img.shields.io/badge/LoRa-00AEEF?style=flat-square"/>
+<img src="https://img.shields.io/badge/GSM-00897B?style=flat-square"/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 <div align="center">
 
@@ -170,7 +267,7 @@ A real-time computer vision system designed to detect driver fatigue through **e
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -186,7 +283,7 @@ A real-time computer vision system designed to detect driver fatigue through **e
 
 ---
 
-## 🐍 Contribution Graph
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -196,22 +293,47 @@ A real-time computer vision system designed to detect driver fatigue through **e
 
 ---
 
-## 💫 Currently Exploring
+# 💫 Currently Exploring
 
 <div align="center">
 
-🤖 **AI Engineering**  
-🧠 **Generative AI & LLM Applications**  
-🎬 **Multimodal AI**  
-🎯 **Reinforcement Learning**  
-🌐 **Full-Stack Development**  
+🤖 **AI Engineering**
+
+🧠 **Generative AI & LLM Applications**
+
+🎬 **Multimodal AI**
+
+🎯 **Reinforcement Learning**
+
+🌐 **Full-Stack Development**
+
 🌱 **Intelligent IoT Systems**
 
 </div>
 
 ---
 
-## 🚀 My Philosophy
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Varshakorabu">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/PORTFOLIO-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🚀 My Philosophy
 
 <div align="center">
 
@@ -227,32 +349,10 @@ A real-time computer vision system designed to detect driver fatigue through **e
 
 <div align="center">
 
+✨ Thanks for stopping by! Every repository here reflects my journey of **learning, building, and growing as a developer.**
+
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
 
 </div>
-
----
-
-## 🌱 Smart Irrigation System for Grape Cultivation using IoT & Machine Learning
-
-**Government of Karnataka Funded | NAIN 2.0**
-
-As a member of the project team, I contributed to the development of an intelligent irrigation system designed to support better irrigation decisions using real-time sensor data and Machine Learning.
-
-<div align="center">
-
-| 🔧 Technologies Used | ✨ Key Features |
-|:---:|:---:|
-| • ESP32 | • Real-time environmental monitoring |
-| • Raspberry Pi | • Smart irrigation recommendations |
-| • Machine Learning | • Sensor-based decision making |
-| • IoT Sensors | • Cloud data storage |
-| • Python | • Remote monitoring |
-| • Flask | • Intelligent irrigation |
-| • Firebase | • Data-driven automation |
-| • LoRa / GSM | • IoT communication |
-
-</div>
-
-**Project Focus:** IoT • Machine Learning • Embedded Systems • Smart Agriculture
-
