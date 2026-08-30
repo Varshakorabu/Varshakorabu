@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Varsha%20Korabu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<h1>👋 Hi, I'm Varsha Korabu</h1>
+# 👋 Hi, I'm Varsha Korabu
 
-<h3>🤖 AI/ML & GenAI | 💻 Full-Stack Developer | 🎓 Final-Year CSE</h3>
+### 🤖 AI/ML & GenAI | 💻 Full-Stack Developer | 🎓 Final-Year CSE
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=750&lines=Building+Intelligent+Real-World+Applications;Exploring+Generative+AI+%26+LLMs;Computer+Vision+%7C+NLP+%7C+Reinforcement+Learning;AI+%2B+Full-Stack+%2B+IoT;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=750&lines=Building+Intelligent+Real-World+Applications;Exploring+Generative+AI+%26+LLMs;Computer+Vision+%7C+NLP+%7C+Reinforcement+Learning;AI+%2B+Full-Stack+Development;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -14,13 +14,8 @@
 
 <br/><br/>
 
-<a href="https://github.com/Varshakorabu">
 <img src="https://img.shields.io/github/followers/Varshakorabu?label=Followers&style=for-the-badge&color=667eea"/>
-</a>
-
-<a href="https://github.com/Varshakorabu?tab=repositories">
 <img src="https://img.shields.io/github/stars/Varshakorabu?label=Stars&style=for-the-badge&color=764ba2"/>
-</a>
 
 </div>
 
@@ -28,94 +23,64 @@
 
 # 🌸 About Me
 
-🎓 I'm a **Final-Year Computer Science & Engineering student** passionate about building intelligent, practical, and real-world software solutions.
+🎓 I'm a **Final-Year Computer Science & Engineering student** passionate about building intelligent and practical software solutions.
 
-🤖 My core interests include **Artificial Intelligence, Machine Learning, Generative AI, Computer Vision, NLP, Reinforcement Learning, and Multimodal AI.**
+🤖 My primary interests are **Artificial Intelligence, Machine Learning, Generative AI, Computer Vision, NLP, Reinforcement Learning, and Multimodal AI.**
 
-💻 I enjoy combining **AI with software engineering** to turn ideas into useful applications.
+💻 I enjoy combining **AI with software engineering** to turn ideas into usable real-world applications.
 
-🌱 I also explore **IoT, embedded systems, intelligent automation, and full-stack development.**
+🌐 I'm also interested in **Full-Stack Development**, building APIs, dashboards, interactive applications, and AI-powered platforms.
 
-🧠 I believe the best way to learn technology is by **building real projects and solving real problems.**
+🧠 I believe in **learning by building** — experimenting with technologies, solving problems, debugging things that don't work, and continuously improving.
 
-> **Learn → Build → Experiment → Break → Fix → Improve 🚀**
+🚀 My goal is to grow as an **AI Engineer who can also build complete, production-oriented applications.**
 
 ---
 
-# ⚡ What I Build
+# ⚡ What I Work On
 
 <div align="center">
 
-| 🤖 AI / ML | 🧠 GenAI | 🌐 Full Stack |
-|:---:|:---:|:---:|
-| Machine Learning | LLM Applications | React |
-| Computer Vision | AI Assistants | Node.js |
-| NLP | Document Intelligence | Express.js |
-| Reinforcement Learning | AI Automation | REST APIs |
-| Multimodal AI | Summarization | Databases |
-
-| 🎮 AI + Real-Time | 🌱 Smart Systems |
+| 🤖 Artificial Intelligence | 🌐 Software Development |
 |:---:|:---:|
-| Multiplayer Applications | ESP32 |
-| Real-Time Applications | Raspberry Pi |
-| AI-Powered Games | IoT Sensors |
-| Interactive Platforms | LoRa / GSM |
-| Competitive Applications | Smart Automation |
+| Machine Learning | React |
+| Generative AI | Node.js |
+| Large Language Models | Express.js |
+| Computer Vision | REST APIs |
+| Natural Language Processing | Full-Stack Applications |
+| Reinforcement Learning | Database Systems |
+| Multimodal AI | Cloud Deployment |
 
 </div>
 
 ---
 
-# 📌 Project Highlights
+# 🚀 Projects & Repositories
 
-<div align="center">
-
-### 🥈 2nd Place — NAIN 2.0
-
-**Top 10 Teams out of 50**
-
-<br/>
-
-### 🚗 Driver Drowsiness Detection
-
-**9K+ LinkedIn Post Engagement**
-
-<br/>
-
-### 🏆 HCLTech AMPlified AI Challenge
-
-**Top 500**
-
-<br/>
-
-### 🎬 Major Project
-
-**Multimodal AI + Reinforcement Learning**
-
-</div>
+Here are some of the projects I've built while exploring **AI, Full-Stack Development, Computer Vision, and intelligent applications.**
 
 ---
-
-# 🚀 Featured Projects
 
 ## 🎬 Language-Guided Reinforcement Learning for Unsupervised Video Summarization
 
-### 🎯 Major Project
+### 🧠 Major Project
 
-A multimodal video summarization system that combines **visual, audio, and textual information** with **Reinforcement Learning** to identify important scenes from previously unseen videos.
+An AI-based video summarization system that combines **visual, audio, and textual information** to identify important scenes from videos.
 
-### 🔥 Key Highlights
+The project explores **multimodal representation learning and Reinforcement Learning** to generate meaningful summaries without relying on manually created summaries.
 
-- 🎥 Video frame extraction and preprocessing
-- 🗣️ Audio transcription using Whisper
-- 👁️ Visual representation using CLIP
-- 🧠 Multimodal representation learning
-- 🎯 Language-guided scene importance estimation
-- 🤖 Reinforcement Learning based summarization
-- 🎞️ Scene detection and redundancy reduction
-- 📊 Quantitative evaluation of generated summaries
+**Key Areas**
 
-**Tech:** Python • PyTorch • CLIP • Whisper • Transformers • YOLOv8 • Stable-Baselines3 • Gymnasium • OpenCV • Decord
+- 🎥 Video Processing
+- 🧠 Reinforcement Learning
+- 👁️ Computer Vision
+- 🎙️ Speech / Audio Processing
+- 📝 Textual Representation
+- 🔗 Multimodal Learning
+
+**Tech Stack**
+
+`Python` `PyTorch` `CLIP` `Whisper` `Transformers` `YOLO` `OpenCV` `Stable-Baselines3`
 
 ---
 
@@ -123,122 +88,159 @@ A multimodal video summarization system that combines **visual, audio, and textu
 
 ### 🏆 Government of Karnataka Funded | NAIN 2.0
 
-An **IoT + Machine Learning based smart irrigation system** designed to support better irrigation decisions using real-time environmental and soil-related sensor data.
+An intelligent agriculture project developed to support better irrigation decisions using **real-time sensor data and Machine Learning**.
 
-### 🏆 Achievement
+My contribution involved working with the **software, data processing, Machine Learning, and system integration aspects** of the project.
+
+The project secured:
 
 🥈 **2nd Place**
 
-🏅 **Top 10 Teams out of 50**
+🏆 **Top 10 Teams out of 50**
 
-### 🔧 Technologies Used
+**Key Features**
 
-- ESP32
-- Raspberry Pi
-- IoT Sensors
-- Python
-- Flask
-- Firebase
-- Machine Learning
-- LoRa
-- GSM
+- 📊 Real-time environmental monitoring
+- 🧠 Machine Learning-based irrigation recommendations
+- ☁️ Cloud data storage
+- 📱 Remote monitoring
+- 🔗 Sensor data communication
+- ⚙️ Intelligent decision-making
 
-### ✨ Key Features
+**Technologies**
 
-- 🌡️ Real-time environmental monitoring
-- 💧 Sensor-based irrigation recommendations
-- 🧠 Machine Learning based decision making
-- ☁️ Cloud data storage using Firebase
-- 📱 Remote monitoring support
-- 📡 LoRa / GSM communication
-- ⚙️ Intelligent irrigation support
+`Python` `Machine Learning` `Flask` `Firebase` `REST APIs` `Data Processing`
 
-### 💡 Project Focus
-
-**IoT • Machine Learning • Embedded Systems • Smart Agriculture**
-
-This project strengthened my experience in **real hardware-software integration, teamwork, technical problem-solving, debugging, and developing solutions for real-world agricultural challenges.**
-
----
-
-## 🚗 Driver Drowsiness & Safety Monitoring System
-
-A real-time **Computer Vision based driver safety system** designed to detect drowsiness and take immediate action to improve driver safety.
-
-### 🔥 What We Built
-
-- 👁️ Real-time eye closure detection
-- 🥱 Yawn detection
-- 🧠 Head-pose analysis
-- 🌙 Night-time detection
-- 🗺️ Live GPS tracking
-- 📲 Emergency SMS alerts
-- 📍 Live location sharing with caretakers
-- 🎙️ Custom emotional voice alerts
-- 📊 Driver behaviour logging
-- 📑 Excel data export
-- ⚠️ Danger-zone logic for unresponsive drivers
-
-### 🎯 Why It Matters
-
-The system works as a **smart co-pilot**, continuously monitoring the driver, providing alerts, and notifying caretakers when potentially dangerous situations occur.
-
-### 🛠️ Technologies
-
-**Python • OpenCV • MediaPipe • Computer Vision • GPS • SMS Alerts • Excel Automation**
-
-This project strengthened my experience in **real-time computer vision, telemetry, dashboard development, alert systems, and automation workflows.**
+> 🌱 While this project involved IoT hardware, my primary interest and contribution are on the **software, AI, data, and system-integration side**.
 
 ---
 
 ## ⚔️ Quiz Arena — AI Multiplayer Quiz Battle
 
-A real-time multiplayer quiz platform where users can **create rooms, compete with friends, and participate in interactive AI-powered quizzes.**
+A real-time multiplayer quiz platform designed to make quizzes more **interactive, competitive, and engaging**.
 
-### ✨ Features
+Users can create or join quiz rooms, compete with other players, and experience real-time gameplay.
+
+**Key Features**
 
 - 🎮 Multiplayer quiz rooms
-- 👥 Real-time player interaction
-- 🧠 AI-powered quiz generation
 - 🏆 Competitive scoring
-- ⏱️ Timed questions
-- 📊 Leaderboards
-- 🔐 User-based sessions
-- 🎯 Interactive quiz experience
+- ⚡ Real-time interaction
+- 🧠 AI-powered quiz experience
+- 👥 Room-based gameplay
+- 📊 Player results
 
-**Tech:** React • Node.js • Express.js • JavaScript • MongoDB • REST APIs
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `JavaScript` `MongoDB` `REST APIs`
+
+---
+
+## 📄 ResearchMate — Smart Research Assistant
+
+An AI-powered research assistant designed to help users interact with and retrieve information from research documents.
+
+The system processes uploaded PDF documents, divides them into meaningful chunks, generates embeddings, and performs semantic search.
+
+**Key Features**
+
+- 📑 PDF document processing
+- 🔎 Semantic search
+- 🧠 Text embeddings
+- 📚 Document chunking
+- ⚡ FAISS vector search
+- 🤖 LLM-powered responses
+
+**Tech Stack**
+
+`Python` `FastAPI` `FAISS` `NumPy` `Embeddings` `LLMs`
 
 ---
 
 ## 📄 TranscribeX — Intelligent Document Transformer
 
-An AI-powered document processing platform designed to transform uploaded documents into useful academic and productivity outputs.
+An AI-powered document processing platform that transforms uploaded documents into useful academic outputs.
 
-### ✨ Features
+The project focuses on making lengthy documents easier to understand and study.
 
-- 📄 Document upload
-- 📝 Intelligent summarization
+**Features**
+
+- 📝 Document summarization
 - 📊 Presentation generation
 - ❓ MCQ generation
 - 📚 Academic content transformation
-- 🏆 User leaderboard
-- 🔄 Automated document processing
+- 📄 Document processing
 
-**Tech:** Python • NLP • Flask • MongoDB • Generative AI
+**Tech Stack**
+
+`Python` `NLP` `GenAI` `Flask` `MongoDB`
 
 ---
 
-# 💡 What I Bring
+## 🚗 Driver Drowsiness & Safety Monitoring System
+
+A real-time Computer Vision project designed to monitor driver behaviour and detect signs of fatigue.
+
+The system goes beyond basic eye detection by combining multiple signals and alert mechanisms.
+
+**Key Features**
+
+- 👁️ Real-time eye monitoring
+- 🥱 Yawn detection
+- 🧠 Head-pose analysis
+- 🌙 Night-time detection
+- 🗺️ Live GPS tracking
+- 📲 Emergency SMS alerts
+- 🎙️ Custom voice alerts
+- 📊 Driver behaviour logging
+- 📁 Excel data export
+- ⚠️ Danger-zone logic
+
+**Tech Stack**
+
+`Python` `OpenCV` `MediaPipe` `Computer Vision` `GPS` `SMS APIs`
+
+---
+
+## 😀 EmojiVerse — Interactive Emoji Platform
+
+A fun full-stack web application built around emojis and interactive user experiences.
+
+The project focuses on combining a simple, engaging frontend with a backend API.
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `REST APIs` `JavaScript`
+
+---
+
+## 🌡️ Temperature Converter
+
+A simple responsive web application for converting temperatures between different units.
+
+Built as a small project to practice **frontend development, JavaScript logic, and responsive UI design**.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+# 📌 Project Focus
 
 <div align="center">
 
-| 🧠 AI Engineering | 💻 Software Development | 🔧 Problem Solving |
-|:---:|:---:|:---:|
-| Machine Learning | Full-Stack Development | Debugging |
-| Generative AI | REST APIs | System Integration |
-| Computer Vision | Database Integration | Real-World Projects |
-| NLP | Cloud Deployment | Hardware + Software |
-| Multimodal AI | Application Development | Experimentation |
+### 🤖 AI & Machine Learning
+
+`Machine Learning` `Computer Vision` `NLP` `Generative AI` `LLMs` `Reinforcement Learning` `Multimodal AI`
+
+### 🌐 Software Engineering
+
+`React` `Node.js` `Express.js` `FastAPI` `REST APIs` `MongoDB` `Firebase` `Supabase`
+
+### 🛠️ Development
+
+`Git` `GitHub` `VS Code` `Postman` `Docker`
 
 </div>
 
@@ -250,13 +252,13 @@ An AI-powered document processing platform designed to transform uploaded docume
 
 ## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js"/>
+<img src="https://skillicons.dev/icons?i=c,python,java,js" />
 
 <br/><br/>
 
 ## 🤖 AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 
 <br/><br/>
 
@@ -265,51 +267,36 @@ An AI-powered document processing platform designed to transform uploaded docume
 <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Reinforcement%20Learning-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multimodal%20AI-764BA2?style=for-the-badge"/>
 
 <br/><br/>
 
-## 🌐 Full Stack Development
+## 🌐 Full-Stack Development
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,js" />
 
 <br/><br/>
 
 ## 🗄️ Databases & Cloud
 
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,aws,gcp,vercel"/>
-
-<br/><br/>
-
-## 🌱 IoT & Embedded
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LoRa-00AEEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GSM-00897B?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,aws,vercel" />
 
 <br/><br/>
 
 ## 🔧 Developer Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
 
 </div>
 
 ---
 
-# 🏆 Achievements & Certifications
+# 🏆 Achievements
 
 <div align="center">
 
-🥈 **2nd Place — NAIN 2.0**
+🥇 **Top 500 — HCLTech AMPlified: The AI Challenge**
 
-🏅 **Top 10 out of 50 Teams — NAIN 2.0**
-
-🏆 **Top 500 — HCLTech AMPlified: The AI Challenge**
+🏆 **2nd Place — NAIN 2.0**
 
 🌐 **Google Gemini Ambassador**
 
@@ -318,6 +305,22 @@ An AI-powered document processing platform designed to transform uploaded docume
 ☁️ **AWS Educate — Introduction to Generative AI**
 
 📚 **NPTEL — Artificial Intelligence**
+
+</div>
+
+---
+
+# 📜 Certifications & Learning
+
+<div align="center">
+
+| Certification / Program | Organization |
+|:---|:---:|
+| AI Fluency Framework & Foundations | Anthropic |
+| Introduction to Generative AI | AWS Educate |
+| Artificial Intelligence | NPTEL |
+| Generative AI | Google / Gemini |
+| AI Career Roadmap | TalentBattle |
 
 </div>
 
@@ -333,7 +336,7 @@ An AI-powered document processing platform designed to transform uploaded docume
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Varshakorabu&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Varshakorabu&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -343,59 +346,53 @@ An AI-powered document processing platform designed to transform uploaded docume
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Varshakorabu/Varshakorabu/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Varshakorabu/Varshakorabu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-# 🚧 Currently Building
+# 📈 My GitHub Journey
 
 <div align="center">
 
-🎬 **Multimodal Video Summarization**
+### Building projects → Learning technologies → Solving problems → Improving every day 🚀
 
 <br/>
 
-🧠 **AI & LLM Applications**
-
-<br/>
-
-🌐 **Full-Stack AI Systems**
-
-<br/>
-
-🤖 **Intelligent Real-World Applications**
+<img src="https://github-profile-trophy.vercel.app/?username=Varshakorabu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
+# 💫 Currently Exploring
 
 <div align="center">
 
-🚀 Build production-ready AI applications
+🤖 **AI Engineering**
 
-<br/>
+🧠 **Generative AI & LLM Applications**
 
-🧠 Deepen my understanding of LLMs and Multimodal AI
+🎬 **Multimodal AI**
 
-<br/>
+🎯 **Reinforcement Learning**
 
-💻 Strengthen Data Structures & Algorithms
+🌐 **Full-Stack Development**
 
-<br/>
+⚡ **AI-Powered Applications**
 
-🌐 Deploy more full-stack applications
+</div>
 
-<br/>
+---
 
-🏗️ Contribute to open-source projects
+# 🎯 What I'm Working Towards
 
-<br/>
+<div align="center">
 
-📚 Continue learning through real-world projects
+### Becoming an AI Engineer who can take an idea from
+
+### **Concept → Model → Backend → Application → Deployment 🚀**
 
 </div>
 
@@ -405,28 +402,19 @@ An AI-powered document processing platform designed to transform uploaded docume
 
 <div align="center">
 
-## **Build. Learn. Experiment. Deploy. Repeat. 🚀**
+## **Build. Learn. Experiment. Deploy. Repeat.**
 
 <br/>
 
-> **Innovation builds projects.  
-> Pressure builds people.**
+Every project teaches something new.
+
+Every bug is another problem to solve.
+
+Every failed experiment is part of the learning process.
 
 <br/>
 
-⭐ If you find my projects interesting, feel free to explore my repositories!
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/varsha-korabu/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 🌱 Learning by Building.
 
 </div>
 
@@ -434,12 +422,6 @@ An AI-powered document processing platform designed to transform uploaded docume
 
 <div align="center">
 
-### ✨ Thanks for stopping by!
-
-**Every repository here reflects my journey of learning, building, experimenting, and growing as a developer. 🚀**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
 
 </div>
