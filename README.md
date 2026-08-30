@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Varsha%20Korabu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-# 👋 Hi, I'm Varsha Korabu
+<h1>👋 Hi, I'm Varsha Korabu</h1>
 
-### 🤖 AI/ML & GenAI | 💻 Full-Stack Developer | 🎓 Final-Year CSE Student
+<h3>🤖 AI/ML & GenAI | 💻 Full-Stack Developer | 🎓 Final-Year CSE</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=750&lines=Building+Intelligent+Real-World+Applications;Exploring+Generative+AI+%26+LLMs;Computer+Vision+%7C+NLP+%7C+Multimodal+AI;Reinforcement+Learning+%7C+AI+Engineering;AI+%2B+Full-Stack+%2B+IoT;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=750&lines=Building+Intelligent+Real-World+Applications;Exploring+Generative+AI+%26+LLMs;Computer+Vision+%7C+NLP+%7C+Reinforcement+Learning;AI+%2B+Full-Stack+%2B+IoT;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Varshakorabu&label=PROFILE%20VIEWS&color=667eea&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Varshakorabu&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views"/>
 
 <br/><br/>
 
@@ -22,31 +22,29 @@
 <img src="https://img.shields.io/github/stars/Varshakorabu?label=Stars&style=for-the-badge&color=764ba2"/>
 </a>
 
-<a href="https://github.com/Varshakorabu?tab=projects">
-<img src="https://img.shields.io/badge/Projects-Explore-6c63ff?style=for-the-badge"/>
-</a>
-
 </div>
 
 ---
 
-## 🌸 About Me
+# 🌸 About Me
 
-🎓 I'm a **Final-Year Computer Science & Engineering student** passionate about building intelligent and practical software solutions.
+🎓 I'm a **Final-Year Computer Science & Engineering student** passionate about building intelligent, practical, and real-world software solutions.
 
-🤖 My primary interests include **Artificial Intelligence, Machine Learning, Generative AI, Computer Vision, NLP, Reinforcement Learning, and Multimodal AI.**
+🤖 My core interests include **Artificial Intelligence, Machine Learning, Generative AI, Computer Vision, NLP, Reinforcement Learning, and Multimodal AI.**
 
-💻 I enjoy combining **AI with software engineering** to transform ideas into useful real-world applications.
+💻 I enjoy combining **AI with software engineering** to turn ideas into useful applications.
 
 🌱 I also explore **IoT, embedded systems, intelligent automation, and full-stack development.**
 
-🧠 I believe in **learning by building** — experimenting with technologies, solving problems, and continuously improving.
+🧠 My approach is simple:
 
-🚀 Currently focused on becoming a stronger **AI Engineer and Full-Stack Developer** while building meaningful projects.
+> **Learn → Build → Experiment → Break → Fix → Improve 🚀**
+
+🏗️ I believe the best way to learn technology is by **building real projects and solving real problems.**
 
 ---
 
-## ⚡ What I Build
+# ⚡ What I Build
 
 <div align="center">
 
@@ -58,6 +56,14 @@
 | Reinforcement Learning | AI Automation | REST APIs |
 | Multimodal AI | Summarization | Databases |
 
+| 🎮 AI + Real-Time | 🌱 Smart Systems |
+|:---:|:---:|
+| Multiplayer Applications | ESP32 |
+| Real-Time Applications | Raspberry Pi |
+| AI-Powered Games | IoT Sensors |
+| Interactive Platforms | LoRa / GSM |
+| Competitive Applications | Smart Automation |
+
 </div>
 
 ---
@@ -66,112 +72,131 @@
 
 ## 🎬 Language-Guided Reinforcement Learning for Unsupervised Video Summarization
 
-> **Major Project | Multimodal AI + Reinforcement Learning**
+### 🎯 Major Project
 
-An intelligent video summarization system that combines **visual, audio, and textual information** to identify important segments from previously unseen videos.
+A multimodal video summarization system that combines **visual, audio, and textual information** with **Reinforcement Learning** to identify important scenes from previously unseen videos.
 
-The system explores **multimodal representation learning and Reinforcement Learning** to generate concise and meaningful video summaries.
+### 🔥 Key Highlights
 
-### 🔑 Highlights
-
-- 🎥 Video frame extraction and scene analysis
-- 🎙️ Audio transcription using Whisper
+- 🎥 Video frame extraction and preprocessing
+- 🗣️ Audio transcription using Whisper
+- 👁️ Visual representation using CLIP
 - 🧠 Multimodal representation learning
-- 👁️ Visual feature extraction
-- 🎯 Reinforcement Learning based summary selection
-- 🤖 CLIP-based visual-text representation
-- 📊 Evaluation using video summarization metrics
+- 🎯 Language-guided scene importance estimation
+- 🤖 Reinforcement Learning based summarization
+- 🎞️ Scene detection and redundancy reduction
+- 📊 Evaluation using quantitative metrics
 
-**Tech:** `Python` `PyTorch` `CLIP` `Whisper` `Transformers` `YOLO` `Stable-Baselines3` `OpenCV`
+**Tech:** Python • PyTorch • CLIP • Whisper • Transformers • YOLOv8 • Stable-Baselines3 • Gymnasium • OpenCV • Decord
 
 ---
 
-## 🌱 Smart Irrigation System for Grape Cultivation using IoT & Machine Learning
+# 🌱 Smart Irrigation System for Grape Cultivation
 
-> **Government of Karnataka Funded | NAIN 2.0**
+### 🏆 Government of Karnataka Funded | NAIN 2.0
 
-As a member of the project team, I contributed to the development of an intelligent irrigation system designed to support better irrigation decisions using **real-time sensor data and Machine Learning**.
+An **IoT + Machine Learning based smart irrigation system** designed to support better irrigation decisions using real-time environmental and soil-related sensor data.
 
-<div align="center">
+### 🏆 Achievement
 
-| 🔧 Technologies Used | ✨ Key Features |
-|:---:|:---:|
-| ESP32 | Real-time environmental monitoring |
-| Raspberry Pi | Smart irrigation recommendations |
-| Firebase | Cloud data storage |
-| Machine Learning | Sensor-based decision making |
-| IoT Sensors | Environmental monitoring |
-| Python | Intelligent data processing |
-| Flask | Backend communication |
-| LoRa / GSM | IoT communication |
+🥈 **2nd Place**
 
-</div>
+🏅 **Top 10 Teams out of 50**
 
-### 🎯 Project Focus
+### 🔧 Technologies Used
+
+- ESP32
+- Raspberry Pi
+- IoT Sensors
+- Python
+- Flask
+- Firebase
+- Machine Learning
+- LoRa
+- GSM
+
+### ✨ Key Features
+
+- 🌡️ Real-time environmental monitoring
+- 💧 Sensor-based irrigation recommendations
+- 🧠 Machine Learning based decision making
+- ☁️ Cloud data storage using Firebase
+- 📱 Remote monitoring support
+- 📡 LoRa / GSM communication
+- ⚙️ Intelligent irrigation support
+
+### 💡 Project Focus
 
 **IoT • Machine Learning • Embedded Systems • Smart Agriculture**
 
-This project strengthened my experience in **hardware-software integration, sensor data processing, cloud communication, machine learning, teamwork, and real-world problem solving.**
+This project gave me hands-on experience in **real hardware-software integration, teamwork, technical problem-solving, debugging, and developing solutions for real-world agricultural challenges.**
 
 ---
 
-## ⚔️ Quiz Arena — AI Multiplayer Quiz Battle
+# 🚗 Driver Drowsiness & Safety Monitoring System
 
-> **Real-Time Multiplayer + AI-Powered Quiz Platform**
+A real-time **Computer Vision based driver safety system** designed to detect drowsiness and take immediate action to improve driver safety.
 
-A real-time multiplayer quiz platform where users can **create rooms, compete with friends, and interact through AI-powered quizzes**.
+### 🔥 What We Built
 
-### 🔑 Highlights
+- 👁️ Real-time eye closure detection
+- 🥱 Yawn detection
+- 🧠 Head-pose analysis
+- 🌙 Night-time detection
+- 🗺️ Live GPS tracking
+- 📲 Emergency SMS alerts
+- 📍 Live location sharing with caretakers
+- 🎙️ Custom emotional voice alerts
+- 📊 Driver behaviour logging
+- 📑 Excel data export
+- ⚠️ Danger-zone logic for unresponsive drivers
+
+### 🎯 Why It Matters
+
+The system works as a **smart co-pilot**, continuously monitoring the driver, providing alerts, and notifying caretakers when potentially dangerous situations occur.
+
+### 🛠️ Technologies
+
+**Python • OpenCV • MediaPipe • Computer Vision • GPS • SMS APIs • Excel Automation**
+
+This project strengthened my experience in **real-time computer vision, telemetry, dashboard development, alert systems, and automation workflows.**
+
+---
+
+# ⚔️ Quiz Arena — AI Multiplayer Quiz Battle
+
+A real-time multiplayer quiz platform where users can **create rooms, compete with friends, and participate in interactive AI-powered quizzes.**
+
+### ✨ Features
 
 - 🎮 Multiplayer quiz rooms
-- ⚡ Real-time gameplay
-- 🤖 AI-powered quiz generation
+- 👥 Real-time player interaction
+- 🧠 AI-powered quiz generation
 - 🏆 Competitive scoring
-- 👥 Room-based interaction
-- 📊 Player performance tracking
-- 🌐 Full-stack architecture
+- ⏱️ Timed questions
+- 📊 Leaderboards
+- 🔐 User-based sessions
+- 🎯 Interactive quiz experience
 
-**Tech:** `React` `Node.js` `Express.js` `JavaScript` `MongoDB` `REST APIs`
+**Tech:** React • Node.js • Express.js • JavaScript • MongoDB • REST APIs
 
 ---
 
-## 📄 TranscribeX — Intelligent Document Transformer
+# 📄 TranscribeX — Intelligent Document Transformer
 
-> **AI-Powered Document Processing Platform**
+An AI-powered document processing platform designed to transform uploaded documents into useful academic and productivity outputs.
 
-An intelligent document processing platform that transforms uploaded documents into useful academic and productivity outputs.
+### ✨ Features
 
-### 🔑 Features
-
-- 📑 Document processing
-- 📝 AI-generated summaries
-- 🎞️ Presentation generation
+- 📄 Document upload
+- 📝 Intelligent summarization
+- 📊 Presentation generation
 - ❓ MCQ generation
 - 📚 Academic content transformation
-- 🤖 Generative AI integration
+- 🏆 User leaderboard
+- 🔄 Automated document processing
 
-**Tech:** `Python` `NLP` `Flask` `MongoDB` `GenAI`
-
----
-
-## 🚗 Driver Drowsiness Detection
-
-> **Real-Time Computer Vision Safety System**
-
-A real-time computer vision system designed to detect driver fatigue using **eye closure, yawning, and head-pose analysis**.
-
-### 🔑 Features
-
-- 👁️ Eye closure detection
-- 🥱 Yawning detection
-- 🧠 Head-pose analysis
-- 🔊 Voice alerts
-- 📱 SMS notifications
-- 📍 GPS monitoring
-- 📊 Monitoring dashboard
-- 📁 Data export
-
-**Tech:** `Python` `OpenCV` `MediaPipe` `Computer Vision` `GPS` `SMS`
+**Tech:** Python • NLP • Flask • MongoDB • Generative AI
 
 ---
 
@@ -179,13 +204,13 @@ A real-time computer vision system designed to detect driver fatigue using **eye
 
 <div align="center">
 
-### 💻 Programming Languages
+## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=c,python,java,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
 
 <br/><br/>
 
-### 🤖 AI / Machine Learning
+## 🤖 AI / Machine Learning
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 
@@ -200,23 +225,23 @@ A real-time computer vision system designed to detect driver fatigue using **eye
 
 <br/><br/>
 
-### 🌐 Full-Stack Development
+## 🌐 Full Stack Development
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,js" />
 
 <br/><br/>
 
-### 🗄️ Databases & Cloud
+## 🗄️ Databases & Cloud
 
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,aws,vercel" />
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,aws,gcp,vercel" />
 
 <br/><br/>
 
-### 🌱 IoT & Embedded Systems
+## 🌱 IoT & Embedded
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LoRa-00AEEF?style=for-the-badge"/>
@@ -224,14 +249,9 @@ A real-time computer vision system designed to detect driver fatigue using **eye
 
 <br/><br/>
 
-### 🔧 Developer Tools
+## 🔧 Developer Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
 
 </div>
 
@@ -241,12 +261,19 @@ A real-time computer vision system designed to detect driver fatigue using **eye
 
 <div align="center">
 
-| 🏅 Achievement | 📜 Details |
-|:---|:---|
-| 🥇 **HCLTech AMPlified AI Challenge** | **Top 500 Rank** |
-| 🌐 **Google Gemini Ambassador** | AI & Generative AI Community |
-| ☁️ **AWS Educate** | Introduction to Generative AI |
-| 📚 **NPTEL** | Artificial Intelligence — 12 Weeks |
+🥈 **2nd Place — NAIN 2.0**
+
+🏅 **Top 10 out of 50 Teams — NAIN 2.0**
+
+🥇 **Top 500 — HCLTech AMPlified: The AI Challenge**
+
+🌐 **Google Gemini Ambassador**
+
+🤖 **Anthropic — AI Fluency Framework & Foundations**
+
+☁️ **AWS Educate — Introduction to Generative AI**
+
+📚 **NPTEL — Artificial Intelligence**
 
 </div>
 
@@ -284,27 +311,95 @@ A real-time computer vision system designed to detect driver fatigue using **eye
 
 🤖 **AI Engineering**
 
+<br/>
+
 🧠 **Generative AI & LLM Applications**
+
+<br/>
 
 🎬 **Multimodal AI**
 
+<br/>
+
 🎯 **Reinforcement Learning**
+
+<br/>
 
 🌐 **Full-Stack Development**
 
-☁️ **Cloud & AI Deployment**
+<br/>
 
-🧩 **Intelligent Automation**
+⚡ **AI-Powered Real-World Applications**
 
 </div>
 
 ---
 
-# 📈 My Development Journey
+# 📌 What I'm Working Towards
 
 <div align="center">
 
-```text
-Learn → Build → Experiment → Deploy → Improve
-  ↑                                      ↓
-  └────────────── Repeat 🚀 ────────────┘
+### Building stronger AI engineering skills
+
+### Creating useful real-world applications
+
+### Improving my problem-solving abilities
+
+### Exploring LLMs and multimodal systems
+
+### Becoming a better software engineer
+
+</div>
+
+---
+
+# 🚀 My Philosophy
+
+<div align="center">
+
+## **Build. Learn. Experiment. Deploy. Repeat. 🚀**
+
+<br/>
+
+> **Innovation builds projects.  
+> Pressure builds people.**
+
+<br/>
+
+⭐ If you find my projects interesting, feel free to explore my repositories!
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/varsha-korabu/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Varshakorabu">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/PORTFOLIO-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for stopping by!
+
+**Every repository here reflects my journey of learning, building, experimenting, and growing as a developer. 🚀**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
+
+</div>
