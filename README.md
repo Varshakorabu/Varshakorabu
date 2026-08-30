@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Varsha%20Korabu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<h1>👋 Hi, I'm Varsha Korabu</h1>
+# 👋 Hi, I'm Varsha Korabu
 
-<h3>🤖 AI/ML & GenAI | 💻 Full-Stack Developer | 🎓 Final-Year CSE</h3>
+### 🤖 AI/ML & GenAI | 💻 Full-Stack Developer | 🎓 Final-Year CSE Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Building+Intelligent+Real-World+Applications;Exploring+Generative+AI+%26+LLMs;Computer+Vision+%7C+NLP+%7C+Reinforcement+Learning;AI+%2B+Full-Stack+;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=750&lines=Building+Intelligent+Real-World+Applications;Exploring+Generative+AI+%26+LLMs;Computer+Vision+%7C+NLP+%7C+Multimodal+AI;Reinforcement+Learning+%7C+AI+Engineering;AI+%2B+Full-Stack+%2B+IoT;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Varshakorabu&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Varshakorabu&label=PROFILE%20VIEWS&color=667eea&style=for-the-badge" alt="Profile Views"/>
 
 <br/><br/>
 
@@ -22,6 +22,10 @@
 <img src="https://img.shields.io/github/stars/Varshakorabu?label=Stars&style=for-the-badge&color=764ba2"/>
 </a>
 
+<a href="https://github.com/Varshakorabu?tab=projects">
+<img src="https://img.shields.io/badge/Projects-Explore-6c63ff?style=for-the-badge"/>
+</a>
+
 </div>
 
 ---
@@ -30,13 +34,15 @@
 
 🎓 I'm a **Final-Year Computer Science & Engineering student** passionate about building intelligent and practical software solutions.
 
-🤖 My interests include **Artificial Intelligence, Machine Learning, Generative AI, Computer Vision, NLP, Reinforcement Learning, and Multimodal AI.**
+🤖 My primary interests include **Artificial Intelligence, Machine Learning, Generative AI, Computer Vision, NLP, Reinforcement Learning, and Multimodal AI.**
 
-💻 I enjoy combining **AI with software engineering** to turn ideas into real-world applications.
+💻 I enjoy combining **AI with software engineering** to transform ideas into useful real-world applications.
 
-🌱 I'm also exploring **IoT, embedded systems, intelligent automation, and full-stack development.**
+🌱 I also explore **IoT, embedded systems, intelligent automation, and full-stack development.**
 
 🧠 I believe in **learning by building** — experimenting with technologies, solving problems, and continuously improving.
+
+🚀 Currently focused on becoming a stronger **AI Engineer and Full-Stack Developer** while building meaningful projects.
 
 ---
 
@@ -52,207 +58,195 @@
 | Reinforcement Learning | AI Automation | REST APIs |
 | Multimodal AI | Summarization | Databases |
 
-<br/>
-
+</div>
 
 ---
 
-# 🏆 Featured Project
+# 🚀 Featured Projects
+
+## 🎬 Language-Guided Reinforcement Learning for Unsupervised Video Summarization
+
+> **Major Project | Multimodal AI + Reinforcement Learning**
+
+An intelligent video summarization system that combines **visual, audio, and textual information** to identify important segments from previously unseen videos.
+
+The system explores **multimodal representation learning and Reinforcement Learning** to generate concise and meaningful video summaries.
+
+### 🔑 Highlights
+
+- 🎥 Video frame extraction and scene analysis
+- 🎙️ Audio transcription using Whisper
+- 🧠 Multimodal representation learning
+- 👁️ Visual feature extraction
+- 🎯 Reinforcement Learning based summary selection
+- 🤖 CLIP-based visual-text representation
+- 📊 Evaluation using video summarization metrics
+
+**Tech:** `Python` `PyTorch` `CLIP` `Whisper` `Transformers` `YOLO` `Stable-Baselines3` `OpenCV`
+
+---
 
 ## 🌱 Smart Irrigation System for Grape Cultivation using IoT & Machine Learning
 
-**Government of Karnataka Funded | NAIN 2.0**
+> **Government of Karnataka Funded | NAIN 2.0**
 
-As a **member of the project team**, I contributed to the development of an intelligent irrigation system designed to support better irrigation decisions using real-time sensor data and Machine Learning.
+As a member of the project team, I contributed to the development of an intelligent irrigation system designed to support better irrigation decisions using **real-time sensor data and Machine Learning**.
 
 <div align="center">
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔧 Technologies Used
-
-<ul>
-<li>ESP32</li>
-<li>Raspberry Pi 5</li>
-<li>Firebase</li>
-<li>Machine Learning</li>
-<li>IoT Sensors</li>
-<li>Python</li>
-<li>Embedded Systems</li>
-<li>Flask</li>
-<li>LoRa / GSM</li>
-</ul>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ✨ Key Features
-
-<ul>
-<li>🌱 Real-time environmental monitoring</li>
-<li>💧 Smart irrigation recommendations</li>
-<li>🧠 Sensor-based decision making</li>
-<li>☁️ Cloud data storage using Firebase</li>
-<li>📱 Remote monitoring support</li>
-<li>🤖 Machine Learning based decision making</li>
-<li>⚙️ Intelligent irrigation automation</li>
-<li>📡 IoT communication</li>
-</ul>
-
-</td>
-
-</tr>
-</table>
+| 🔧 Technologies Used | ✨ Key Features |
+|:---:|:---:|
+| ESP32 | Real-time environmental monitoring |
+| Raspberry Pi | Smart irrigation recommendations |
+| Firebase | Cloud data storage |
+| Machine Learning | Sensor-based decision making |
+| IoT Sensors | Environmental monitoring |
+| Python | Intelligent data processing |
+| Flask | Backend communication |
+| LoRa / GSM | IoT communication |
 
 </div>
 
-**Project Focus:** IoT • Machine Learning • Embedded Systems • Smart Agriculture
+### 🎯 Project Focus
 
-This project strengthened my **technical, teamwork, leadership, and problem-solving skills** while working with real hardware and software integration.
+**IoT • Machine Learning • Embedded Systems • Smart Agriculture**
 
----
-
-# 🚀 Other Featured Projects
-
-### 🎬 Language-Guided Reinforcement Learning for Unsupervised Video Summarization
-
-My major project focuses on generating intelligent video summaries using **multimodal representation learning and Reinforcement Learning**.
-
-The system combines visual, audio, and textual information to identify important scenes from previously unseen videos.
-
-**Tech:** Python • PyTorch • CLIP • Whisper • Transformers • YOLO • Stable-Baselines3 • OpenCV
+This project strengthened my experience in **hardware-software integration, sensor data processing, cloud communication, machine learning, teamwork, and real-world problem solving.**
 
 ---
 
-### ⚔️ Quiz Arena — AI Multiplayer Quiz Battle
+## ⚔️ Quiz Arena — AI Multiplayer Quiz Battle
+
+> **Real-Time Multiplayer + AI-Powered Quiz Platform**
 
 A real-time multiplayer quiz platform where users can **create rooms, compete with friends, and interact through AI-powered quizzes**.
 
-**Tech:** React • Node.js • Express.js • JavaScript • MongoDB • REST APIs
+### 🔑 Highlights
+
+- 🎮 Multiplayer quiz rooms
+- ⚡ Real-time gameplay
+- 🤖 AI-powered quiz generation
+- 🏆 Competitive scoring
+- 👥 Room-based interaction
+- 📊 Player performance tracking
+- 🌐 Full-stack architecture
+
+**Tech:** `React` `Node.js` `Express.js` `JavaScript` `MongoDB` `REST APIs`
 
 ---
 
-### 📄 TranscribeX — Intelligent Document Transformer
+## 📄 TranscribeX — Intelligent Document Transformer
 
-An AI-powered document processing platform that transforms uploaded documents into useful outputs such as **summaries, presentations, MCQs, and academic content**.
+> **AI-Powered Document Processing Platform**
 
-**Tech:** Python • NLP • Flask • MongoDB • GenAI
+An intelligent document processing platform that transforms uploaded documents into useful academic and productivity outputs.
+
+### 🔑 Features
+
+- 📑 Document processing
+- 📝 AI-generated summaries
+- 🎞️ Presentation generation
+- ❓ MCQ generation
+- 📚 Academic content transformation
+- 🤖 Generative AI integration
+
+**Tech:** `Python` `NLP` `Flask` `MongoDB` `GenAI`
 
 ---
 
-### 🚗 Driver Drowsiness Detection
+## 🚗 Driver Drowsiness Detection
 
-A real-time computer vision system designed to detect driver fatigue through **eye closure, yawning, and head-pose analysis**, with alert and monitoring features.
+> **Real-Time Computer Vision Safety System**
 
-**Tech:** Python • OpenCV • MediaPipe • GPS • SMS Alerts
+A real-time computer vision system designed to detect driver fatigue using **eye closure, yawning, and head-pose analysis**.
+
+### 🔑 Features
+
+- 👁️ Eye closure detection
+- 🥱 Yawning detection
+- 🧠 Head-pose analysis
+- 🔊 Voice alerts
+- 📱 SMS notifications
+- 📍 GPS monitoring
+- 📊 Monitoring dashboard
+- 📁 Data export
+
+**Tech:** `Python` `OpenCV` `MediaPipe` `Computer Vision` `GPS` `SMS`
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
+### 💻 Programming Languages
 
-<td width="50%" valign="top">
-
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
-</p>
-
-<hr/>
-
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-<hr/>
-
-### ⚙️ Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase" />
-</p>
-
-<br/>
-
-<b>Also Worked With</b>
+<img src="https://skillicons.dev/icons?i=c,python,java,js" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square"/>
-<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
+### 🤖 AI / Machine Learning
 
-</td>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 
-<td width="50%" valign="top">
+<br/><br/>
 
-### 🤖 AI / ML
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multimodal%20AI-764BA2?style=for-the-badge"/>
 
-<ul align="left">
-<li>Machine Learning</li>
-<li>Deep Learning</li>
-<li>Natural Language Processing (NLP)</li>
-<li>Data Preprocessing</li>
-<li>NumPy</li>
-<li>Pandas</li>
-<li>Matplotlib</li>
-<li>Computer Vision</li>
-<li>Reinforcement Learning</li>
-<li>Generative AI</li>
-<li>LLMs</li>
-<li>Multimodal AI</li>
-</ul>
+<br/><br/>
 
-<hr/>
+### 🌐 Full-Stack Development
 
-### 🛠️ Developer Tools
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,js" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
-</p>
+<br/><br/>
 
-<hr/>
+### 🗄️ Databases & Cloud
 
-### 🌱 Embedded Systems
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,aws,vercel" />
 
-<p>
+<br/><br/>
+
+### 🌱 IoT & Embedded Systems
+
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</p>
 
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square"/>
-<img src="https://img.shields.io/badge/LoRa-00AEEF?style=flat-square"/>
-<img src="https://img.shields.io/badge/GSM-00897B?style=flat-square"/>
+<br/>
 
-</td>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LoRa-00AEEF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GSM-00897B?style=for-the-badge"/>
 
-</tr>
-</table>
+<br/><br/>
+
+### 🔧 Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🏆 Achievements
+# 🏆 Achievements & Certifications
 
 <div align="center">
 
-🥇 **Top 500 — HCLTech AMPlified: The AI Challenge**
-
-🌐 **Google Gemini Ambassador**
-
-☁️ **AWS Educate — Generative AI**
-
-📚 **NPTEL — Artificial Intelligence**
+| 🏅 Achievement | 📜 Details |
+|:---|:---|
+| 🥇 **HCLTech AMPlified AI Challenge** | **Top 500 Rank** |
+| 🌐 **Google Gemini Ambassador** | AI & Generative AI Community |
+| ☁️ **AWS Educate** | Introduction to Generative AI |
+| 📚 **NPTEL** | Artificial Intelligence — 12 Weeks |
 
 </div>
 
@@ -298,52 +292,19 @@ A real-time computer vision system designed to detect driver fatigue through **e
 
 🌐 **Full-Stack Development**
 
-🌱 **Intelligent IoT Systems**
+☁️ **Cloud & AI Deployment**
+
+🧩 **Intelligent Automation**
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 📈 My Development Journey
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Varshakorabu">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/PORTFOLIO-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🚀 My Philosophy
-
-<div align="center">
-
-### **Build. Learn. Experiment. Deploy. Repeat. 🚀**
-
-<br/>
-
-⭐ If you find my projects interesting, feel free to explore my repositories!
-
-</div>
-
----
-
-<div align="center">
-
-✨ Thanks for stopping by! Every repository here reflects my journey of **learning, building, and growing as a developer.**
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
-
-</div>
+```text
+Learn → Build → Experiment → Deploy → Improve
+  ↑                                      ↓
+  └────────────── Repeat 🚀 ────────────┘
