@@ -6,7 +6,7 @@
 
 <h3>🤖 AI/ML & GenAI | 💻 Full-Stack Developer | 🎓 Final-Year CSE</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=750&lines=Building+Intelligent+Real-World+Applications;Exploring+Generative+AI+%26+LLMs;Computer+Vision+%7C+NLP+%7C+Reinforcement+Learning;AI+%2B+Full-Stack+%2B+IoT;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=750&lines=Building+Intelligent+Real-World+Applications;Exploring+Generative+AI+%26+LLMs;Computer+Vision+%7C+NLP+%7C+Reinforcement+Learning;AI+%2B+Full-Stack+%2B+IoT;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
@@ -36,11 +36,9 @@
 
 🌱 I also explore **IoT, embedded systems, intelligent automation, and full-stack development.**
 
-🧠 My approach is simple:
+🧠 I believe the best way to learn technology is by **building real projects and solving real problems.**
 
 > **Learn → Build → Experiment → Break → Fix → Improve 🚀**
-
-🏗️ I believe the best way to learn technology is by **building real projects and solving real problems.**
 
 ---
 
@@ -68,6 +66,36 @@
 
 ---
 
+# 📌 Project Highlights
+
+<div align="center">
+
+### 🥈 2nd Place — NAIN 2.0
+
+**Top 10 Teams out of 50**
+
+<br/>
+
+### 🚗 Driver Drowsiness Detection
+
+**9K+ LinkedIn Post Engagement**
+
+<br/>
+
+### 🏆 HCLTech AMPlified AI Challenge
+
+**Top 500**
+
+<br/>
+
+### 🎬 Major Project
+
+**Multimodal AI + Reinforcement Learning**
+
+</div>
+
+---
+
 # 🚀 Featured Projects
 
 ## 🎬 Language-Guided Reinforcement Learning for Unsupervised Video Summarization
@@ -85,13 +113,13 @@ A multimodal video summarization system that combines **visual, audio, and textu
 - 🎯 Language-guided scene importance estimation
 - 🤖 Reinforcement Learning based summarization
 - 🎞️ Scene detection and redundancy reduction
-- 📊 Evaluation using quantitative metrics
+- 📊 Quantitative evaluation of generated summaries
 
 **Tech:** Python • PyTorch • CLIP • Whisper • Transformers • YOLOv8 • Stable-Baselines3 • Gymnasium • OpenCV • Decord
 
 ---
 
-# 🌱 Smart Irrigation System for Grape Cultivation
+## 🌱 Smart Irrigation System for Grape Cultivation
 
 ### 🏆 Government of Karnataka Funded | NAIN 2.0
 
@@ -129,11 +157,11 @@ An **IoT + Machine Learning based smart irrigation system** designed to support 
 
 **IoT • Machine Learning • Embedded Systems • Smart Agriculture**
 
-This project gave me hands-on experience in **real hardware-software integration, teamwork, technical problem-solving, debugging, and developing solutions for real-world agricultural challenges.**
+This project strengthened my experience in **real hardware-software integration, teamwork, technical problem-solving, debugging, and developing solutions for real-world agricultural challenges.**
 
 ---
 
-# 🚗 Driver Drowsiness & Safety Monitoring System
+## 🚗 Driver Drowsiness & Safety Monitoring System
 
 A real-time **Computer Vision based driver safety system** designed to detect drowsiness and take immediate action to improve driver safety.
 
@@ -157,13 +185,13 @@ The system works as a **smart co-pilot**, continuously monitoring the driver, pr
 
 ### 🛠️ Technologies
 
-**Python • OpenCV • MediaPipe • Computer Vision • GPS • SMS APIs • Excel Automation**
+**Python • OpenCV • MediaPipe • Computer Vision • GPS • SMS Alerts • Excel Automation**
 
 This project strengthened my experience in **real-time computer vision, telemetry, dashboard development, alert systems, and automation workflows.**
 
 ---
 
-# ⚔️ Quiz Arena — AI Multiplayer Quiz Battle
+## ⚔️ Quiz Arena — AI Multiplayer Quiz Battle
 
 A real-time multiplayer quiz platform where users can **create rooms, compete with friends, and participate in interactive AI-powered quizzes.**
 
@@ -182,7 +210,7 @@ A real-time multiplayer quiz platform where users can **create rooms, compete wi
 
 ---
 
-# 📄 TranscribeX — Intelligent Document Transformer
+## 📄 TranscribeX — Intelligent Document Transformer
 
 An AI-powered document processing platform designed to transform uploaded documents into useful academic and productivity outputs.
 
@@ -200,19 +228,35 @@ An AI-powered document processing platform designed to transform uploaded docume
 
 ---
 
+# 💡 What I Bring
+
+<div align="center">
+
+| 🧠 AI Engineering | 💻 Software Development | 🔧 Problem Solving |
+|:---:|:---:|:---:|
+| Machine Learning | Full-Stack Development | Debugging |
+| Generative AI | REST APIs | System Integration |
+| Computer Vision | Database Integration | Real-World Projects |
+| NLP | Cloud Deployment | Hardware + Software |
+| Multimodal AI | Application Development | Experimentation |
+
+</div>
+
+---
+
 # 🛠️ Tech Stack
 
 <div align="center">
 
 ## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js"/>
 
 <br/><br/>
 
 ## 🤖 AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
 
 <br/><br/>
 
@@ -227,19 +271,19 @@ An AI-powered document processing platform designed to transform uploaded docume
 
 ## 🌐 Full Stack Development
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,js" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,js"/>
 
 <br/><br/>
 
 ## 🗄️ Databases & Cloud
 
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,aws,gcp,vercel" />
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,aws,gcp,vercel"/>
 
 <br/><br/>
 
 ## 🌱 IoT & Embedded
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
 
 <br/><br/>
 
@@ -251,7 +295,7 @@ An AI-powered document processing platform designed to transform uploaded docume
 
 ## 🔧 Developer Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
 
 </div>
 
@@ -265,7 +309,7 @@ An AI-powered document processing platform designed to transform uploaded docume
 
 🏅 **Top 10 out of 50 Teams — NAIN 2.0**
 
-🥇 **Top 500 — HCLTech AMPlified: The AI Challenge**
+🏆 **Top 500 — HCLTech AMPlified: The AI Challenge**
 
 🌐 **Google Gemini Ambassador**
 
@@ -289,7 +333,7 @@ An AI-powered document processing platform designed to transform uploaded docume
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Varshakorabu&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Varshakorabu&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -305,49 +349,53 @@ An AI-powered document processing platform designed to transform uploaded docume
 
 ---
 
-# 💫 Currently Exploring
+# 🚧 Currently Building
 
 <div align="center">
 
-🤖 **AI Engineering**
+🎬 **Multimodal Video Summarization**
 
 <br/>
 
-🧠 **Generative AI & LLM Applications**
+🧠 **AI & LLM Applications**
 
 <br/>
 
-🎬 **Multimodal AI**
+🌐 **Full-Stack AI Systems**
 
 <br/>
 
-🎯 **Reinforcement Learning**
-
-<br/>
-
-🌐 **Full-Stack Development**
-
-<br/>
-
-⚡ **AI-Powered Real-World Applications**
+🤖 **Intelligent Real-World Applications**
 
 </div>
 
 ---
 
-# 📌 What I'm Working Towards
+# 🎯 2026 Goals
 
 <div align="center">
 
-### Building stronger AI engineering skills
+🚀 Build production-ready AI applications
 
-### Creating useful real-world applications
+<br/>
 
-### Improving my problem-solving abilities
+🧠 Deepen my understanding of LLMs and Multimodal AI
 
-### Exploring LLMs and multimodal systems
+<br/>
 
-### Becoming a better software engineer
+💻 Strengthen Data Structures & Algorithms
+
+<br/>
+
+🌐 Deploy more full-stack applications
+
+<br/>
+
+🏗️ Contribute to open-source projects
+
+<br/>
+
+📚 Continue learning through real-world projects
 
 </div>
 
@@ -372,9 +420,19 @@ An AI-powered document processing platform designed to transform uploaded docume
 
 ---
 
+# 🌐 Connect With Me
 
+<div align="center">
 
+<a href="https://www.linkedin.com/in/varsha-korabu/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+</div>
+
+---
+
+<div align="center">
 
 ### ✨ Thanks for stopping by!
 
